@@ -6,4 +6,6 @@ Xeon E5
 Scheda madre HP
 Scheda madre Lenovo
 periferiche
+Mouse HP
+Mouse Fujitsu
 Elettronica Padovana
