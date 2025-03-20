@@ -8,4 +8,6 @@ Scheda madre Lenovo
 periferiche
 Tastiera HP
 Tastiera Fujitsu
+Mouse HP
+Mouse Fujitsu
 Elettronica Padovana
